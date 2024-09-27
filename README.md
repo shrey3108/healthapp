@@ -13,7 +13,6 @@ The Disease Chatbot is an interactive application designed to assist users in id
   - Dietary recommendations
   - Medication suggestions
 - **Appointment Booking:** Users can book appointments directly through the chatbot.
-- **Appointment History:** Users can view their previous appointments and interactions.
 
 ## Technologies Used
 - **Backend:** Flask (Python)
